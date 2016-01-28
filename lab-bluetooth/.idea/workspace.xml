@@ -69,8 +69,8 @@
       <file leaf-file-name="BluetoothChatFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothchat/BluetoothChatFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38668224">
-              <caret line="243" column="61" selection-start-line="243" selection-start-column="61" selection-end-line="243" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.33411214">
+              <caret line="240" column="26" selection-start-line="240" selection-start-column="26" selection-end-line="240" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#8068#8090#0" expanded="true" />
@@ -1802,8 +1802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothchat/BluetoothChatFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38668224">
-          <caret line="243" column="61" selection-start-line="243" selection-start-column="61" selection-end-line="243" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.33411214">
+          <caret line="240" column="26" selection-start-line="240" selection-start-column="26" selection-end-line="240" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#8068#8090#0" expanded="true" />
