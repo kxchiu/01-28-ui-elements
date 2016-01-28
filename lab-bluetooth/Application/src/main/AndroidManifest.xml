@@ -23,7 +23,9 @@
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 
-    <!-- TODO: ADD PERMISSIONS HERE -->
+    <!-- TODO: ADD PERMISSIONS HERE: DONE -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
     <application
         android:allowBackup="true"
